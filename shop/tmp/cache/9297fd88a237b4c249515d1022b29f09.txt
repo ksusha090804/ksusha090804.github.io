@@ -1,0 +1,45 @@
+a:2:{s:4:"data";s:1305:"<li>
+    <a href="category/men">Men's Wear</a>
+            <ul>
+            <li>
+    <a href="category/shoesmen">shoes</a>
+    </li><li>
+    <a href="category/watchesmen">watches</a>
+    </li>        </ul>
+    </li><li>
+    <a href="category/women">Women's Wear</a>
+            <ul>
+            <li>
+    <a href="category/clothingwomen">clothing</a>
+    </li><li>
+    <a href="category/footwearwomen">footwear</a>
+    </li><li>
+    <a href="category/jewelery">jewelery</a>
+    </li>        </ul>
+    </li><li>
+    <a href="category/kids">Kids's Wear</a>
+            <ul>
+            <li>
+    <a href="category/homefashionkids">home fashion</a>
+    </li><li>
+    <a href="category/shoeskids">shoes</a>
+    </li><li>
+    <a href="category/toys">toys</a>
+    </li>        </ul>
+    </li><li>
+    <a href="category/furniture">Furniture</a>
+            <ul>
+            <li>
+    <a href="category/homecollection">home collection</a>
+            <ul>
+            <li>
+    <a href="category/sofas">sofas</a>
+    </li><li>
+    <a href="category/dinningtables">dinning tables</a>
+    </li>        </ul>
+    </li><li>
+    <a href="category/officecollection">office collection</a>
+    </li>        </ul>
+    </li><li>
+    <a href="category/testcat4">testcat4</a>
+    </li>";s:8:"end_time";i:1576748921;}
